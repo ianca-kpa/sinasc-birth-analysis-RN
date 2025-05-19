@@ -42,7 +42,7 @@ Utilizando o Power BI, explorei dados públicos do SINASC (Sistema de Informaç�
 
 ## 📁 Arquivos
 
-- `sinasc_birth_analysis_rn_2020.pbix`: arquivo Power BI  
+- Arquivo Power BI  
 - Imagens do painel em `.png`
 
 ---
